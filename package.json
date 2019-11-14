@@ -1,6 +1,6 @@
 {
   "name": "ewd-qoper8-dbx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Integrates Cache, IRIS or YottaDB, via the mg-dbx interface, with ewd-qoper8 worker processes",
   "main": "index.js",
   "scripts": {
