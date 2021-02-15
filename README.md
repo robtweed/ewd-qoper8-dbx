@@ -1,4 +1,4 @@
-# ewd-qoper8-redis: Integrates ewd-qoper8 worker modules with the mg-dbx module (for Cache, IRIS and YottaDB)
+# ewd-qoper8-dbx: Integrates ewd-qoper8 worker modules with the mg-dbx module (for Cache, IRIS and YottaDB)
  
 Rob Tweed <rtweed@mgateway.com>  
 8 October 2019, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
@@ -12,7 +12,7 @@ Google Group for discussions, support, advice etc: [http://groups.google.co.uk/g
 
 This module may be used to simplifiy the integration of the mg-dbx module with ewd-qoper8 worker process modules. 
 It additionally loads the ewd-document-store module to provide a very powerful and natural JavaScript interface to the underlying
-Global Storage database provided by Cache, IRIS and YottaDB.
+Global Storage database provided by Cache, IRIS, YottaDB and BDB-style databases.
 
 ## Installing
 
