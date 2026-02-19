@@ -20,8 +20,8 @@ Global Storage database provided by Cache, IRIS, YottaDB and BDB-style databases
 	   
 ## License
 
- Copyright (c) 2019 M/Gateway Developments Ltd,                           
- Reigate, Surrey UK.                                                      
+ Copyright (c) 2019-26 MGateway Ltd,                           
+ Redhill, Surrey UK.                                                      
  All rights reserved.                                                     
                                                                            
   http://www.mgateway.com                                                  
